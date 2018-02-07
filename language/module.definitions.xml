@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions version="1.0">
+ <group name="bxcoinpay">
+  <string name="module_title"><![CDATA[BXCoinPay]]></string>
+  <string name="api_id"><![CDATA[Merchant API Key]]></string>
+  <string name="cryptocurrencies"><![CDATA[Crypto-currencies]]></string>
+  <string name="api_tip"><![CDATA[Get your merchant API ID from <a href="https://bx.in.th/" target="_blank">https://bx.in.th/</a>]]></string>
+  <string name="crypto_tip"><![CDATA[Example: BTC, BCH, LTC]]></string>
+  <string name="debugging"><![CDATA[Show debugging error messages]]></string>
+  <string name="debugging_off"><![CDATA[Hide Debugging Info]]></string>
+  <string name="debugging_on"><![CDATA[Show Debugging Info]]></string>
+ </group>
+</definitions>

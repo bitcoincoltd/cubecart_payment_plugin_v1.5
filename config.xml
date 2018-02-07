@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<installer version="1.0">
+  <info>
+	<uid>gateway-bxcoinpay@cubecart.com</uid>
+	<type>gateway</type>
+	<mobile_optimized>false</mobile_optimized>
+	<name><![CDATA[BxCoinPay]]></name>
+	<description><![CDATA[BX CoinPay - coinpay.in.th]]></description>
+	<version>2.0.0</version>
+	<minVersion>5.0.0a</minVersion>
+	<maxVersion>6.1.*</maxVersion>
+	<creator><![CDATA[CoinPay.co.th]]></creator>
+	<homepage><![CDATA[https://coinpay.co.th]]></homepage>
+	<block>false</block>
+  </info>
+</installer>
